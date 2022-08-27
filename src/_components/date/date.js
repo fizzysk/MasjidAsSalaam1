@@ -9,7 +9,6 @@ class Date extends Component {
     this.state = {
       date: this.getDate(),
       dayOfWeek: this.getDayOfTheWeek(),
-      hijriDate: this.getHijriDate()
     };
   }
 
