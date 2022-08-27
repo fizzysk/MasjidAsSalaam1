@@ -88,8 +88,6 @@ class PrayerTimesWeekAhead extends Component {
               <td>Jama'ah</td>
 
               {/* ASR */}
-              <td>Mithl 1</td>
-              <td>Mithl 2</td>
               <td>Jama'ah</td>
 
               {/* MAGHRIB */}
