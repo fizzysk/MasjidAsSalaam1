@@ -79,23 +79,23 @@ class PrayerTimesWeekAhead extends Component {
             <tr>
               <td />
               {/* FAJR */}
-              <td>Begins</td>
+              <td>Athan</td>
               <td>Jama'ah</td>
               <td>Sunrise</td>
 
               {/* ZUHR */}
-              <td>Begins</td>
+              <td>Athan</td>
               <td>Jama'ah</td>
 
               {/* ASR */}
               <td>Jama'ah</td>
 
               {/* MAGHRIB */}
-              <td>Begins</td>
+              <td>Athan</td>
               <td>Jama'ah</td>
 
               {/* ISHA */}
-              <td>Begins</td>
+              <td>Athan</td>
               <td>Jama'ah</td>
             </tr>
             {rows}

@@ -23,7 +23,7 @@ class PrayerTimes extends Component {
             <tr>
               <th />
               <th />
-              <th>Begins</th>
+              <th>Athan</th>
               <th>Jama'ah</th>
             </tr>
           </thead>
